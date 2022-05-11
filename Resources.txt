@@ -13,3 +13,11 @@ https://pyimagesearch.com/2018/07/23/simple-object-tracking-with-opencv/
 https://machinelearningknowledge.ai/learn-object-tracking-in-opencv-python-with-code-examples/
 https://pysource.com/2021/01/28/object-tracking-with-opencv-and-python/
 https://www.youtube.com/watch?v=zi-62z-3c4U
+https://www.fdxlabs.com/calculate-x-y-z-real-world-coordinates-from-a-single-camera-using-opencv/
+https://pyimagesearch.com/2016/03/28/measuring-size-of-objects-in-an-image-with-opencv/
+https://stackoverflow.com/questions/62959286/how-to-get-the-depth-coordinate-in-the-world-system-from-the-depth-camera
+https://stackoverflow.com/questions/65597853/transform-camera-to-world-coordinates
+https://stackoverflow.com/questions/52677479/exact-depth-distance-from-realsense-d435-with-x-y-coordinates
+https://support.intelrealsense.com/hc/en-us/community/posts/4411783017363-X-Y-Z-coordinates
+https://www.youtube.com/watch?v=mFLZkdH1yLE
+https://www.google.com/search?q=python+depth+camera+coordinates&safe=active&rlz=1C1GCEA_en__1000__1000&biw=1536&bih=722&sxsrf=ALiCzsYXn7FP47jCkHflGSrccRNMnQnLAQ%3A1652282490953&ei=etR7Yt2UOf-YwbkP_qGywAE&ved=0ahUKEwjducP339f3AhV_TDABHf6QDBgQ4dUDCA4&uact=5&oq=python+depth+camera+coordinates&gs_lcp=Cgdnd3Mtd2l6EAMyBQghEKABOgYIABAHEB46CAgAEAgQBxAeOgUIABCGAzoFCAAQgAQ6BggAEAgQHjoGCAAQFhAeOggIIRCgARCLAzoICCEQqwIQiwM6BQghEKsCOggIIRAWEB0QHjoHCCEQChCgAUoECEEYAEoECEYYAFAAWMo6YIY8aABwAXgBgAHDAogB9h-SAQgwLjEuMTQuMpgBAKABAbgBAsABAQ&sclient=gws-wiz
